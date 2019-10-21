@@ -1,6 +1,6 @@
-token=process.env.token
-owner=354716386716811264
-prefix==
-game=Alpha Bots!
+token=NjM1NTU3MDExNzEwNDEwNzUz.Xa4GEQ.dgqW3EMsNYpRDseNXeFFI-upJ48
+owner=583071726447886336
+prefix=1
+game=1play
 stayinchannel=true
 songinstatus=true
